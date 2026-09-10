@@ -34,8 +34,14 @@
 
 ---
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaritaRadu&theme=dark" alt="GitHub Streak" />
+  <!-- Cardul principal de statistici (Stabil) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NaritaRadu&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="NaritaRadu's GitHub Stats" height="192px" />
+  
+  <!-- Cardul cu cele mai folosite limbaje (Stabil) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaritaRadu&layout=compact&theme=dark&hide=css,html" alt="Top Languages" height="192px" />
 </p>
