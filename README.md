@@ -45,7 +45,5 @@
   <!-- Cardul cu limbajele principale -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NaritaRadu&layout=compact&theme=dark&hide=css,html" alt="Top Languages" height="192px" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NaritaRadu&theme=dark" alt="GitHub Streak" />
-</p>
+
 
